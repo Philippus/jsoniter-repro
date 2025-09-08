@@ -1,6 +1,6 @@
 scalaVersion := "2.13.16"
 
-val jsoniterVersion  = "2.37.9"
+val jsoniterVersion  = "2.37.10"
 val scalatestVersion = "3.2.19"
 
 libraryDependencies ++= Seq(
